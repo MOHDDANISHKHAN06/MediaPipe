@@ -38,3 +38,7 @@ Upon achieving satisfactory training results, the model is exported for future a
 ## Conclusion
 
 This project underscores the potent synergy of machine learning and computer vision technologies in crafting practical gesture recognition applications. By focusing on ASL alphabet recognition, it emphasizes these technologies' potential to improve accessibility and support communication for the deaf and hard of hearing community.
+
+## Results
+![output](https://github.com/MOHDDANISHKHAN06/MediaPipe/assets/47732298/0a6bf9bf-9844-41a9-a744-901872b398d3)
+
